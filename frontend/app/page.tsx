@@ -21,7 +21,7 @@ export default function Home() {
     formData.append("file", file);
 
     try {
-      const res = await fetch("http://localhost:5001/api/import", {
+      const res = await fetch("https://groweasy-csv-importer-jdx6.onrender.com/api/import", {
         method: "POST",
         body: formData,
       });
