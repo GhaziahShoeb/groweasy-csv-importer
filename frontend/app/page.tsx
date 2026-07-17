@@ -21,7 +21,7 @@ export default function Home() {
     formData.append("file", file);
 
     try {
-      const res = await fetch("https://groweasy-csv-importer-jdx6.onrender.com/api/import", {
+      const res = await fetch("https://backend-beta-wine-77.vercel.app/api/import", {
         method: "POST",
         body: formData,
       });

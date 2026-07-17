@@ -2,8 +2,8 @@
 
 An AI-powered CSV importer that intelligently extracts CRM lead information from **any** CSV format — regardless of column names, layout, or source (Facebook Lead Exports, Google Ads Exports, Excel sheets, Real Estate CRM exports, manually created spreadsheets, etc.) — and converts it into the GrowEasy CRM schema.
 
-**Live App:** https://groweasy-csv-importer-m0reum9uk-ghaziah-s-projects.vercel.app/
-**Backend API:** https://groweasy-csv-importer-jdx6.onrender.com
+**Live App:** https://frontend-karma-x.vercel.app
+**Backend API:** https://backend-beta-wine-77.vercel.app
 **GitHub Repo:** https://github.com/GhaziahShoeb/groweasy-csv-importer
 
 ---
